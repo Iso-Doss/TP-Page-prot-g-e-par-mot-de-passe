@@ -16,12 +16,7 @@
                     <div class="col-12 p-5 mt-5" style="background-color: #f9e4b7">
                         <h3>Félicitation !!!!</h3>
                         <p>Voici les codes secret de la NASA:</p>
-                        <p>djknblj.dnslb.dkgnlbkndflbjlfl</p>
-                        <p>djknblj.dnslb.dkgnlbkndflbjlfl</p>
-                        <p>djknblj.dnslb.dkgnlbkndflbjlfl</p>
-                        <p>djknblj.dnslb.dkgnlbkndflbjlfl</p>
-                        <p>djknblj.dnslb.dkgnlbkndflbjlfl</p>
-                        <p>djknblj.dnslb.dkgnlbkndflbjlfl</p>
+                        <p>CRD5-GTFT-CK65-JOPM-V29N-24G1-HH28-LLFV</p>
                         </form>
                     </div>
                 </div>
